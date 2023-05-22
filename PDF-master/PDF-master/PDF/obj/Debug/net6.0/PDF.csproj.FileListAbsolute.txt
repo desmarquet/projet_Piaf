@@ -1,0 +1,15 @@
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\PDF.csproj.AssemblyReference.cache
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\PDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\PDF.AssemblyInfoInputs.cache
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\PDF.AssemblyInfo.cs
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\PDF.csproj.CoreCompileInputs.cache
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\bin\Debug\net6.0\PDF.exe
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\bin\Debug\net6.0\PDF.deps.json
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\bin\Debug\net6.0\PDF.runtimeconfig.json
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\bin\Debug\net6.0\PDF.dll
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\bin\Debug\net6.0\PDF.pdb
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\PDF.dll
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\refint\PDF.dll
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\PDF.pdb
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\PDF.genruntimeconfig.cache
+C:\Users\pc-quentin\Downloads\PDF-master\PDF-master\PDF\obj\Debug\net6.0\ref\PDF.dll
